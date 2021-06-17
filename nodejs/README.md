@@ -1,0 +1,1 @@
+this will be a form. where anyone can see the threads but for posting need to be logged in.
